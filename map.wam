@@ -1,0 +1,1711 @@
+{
+	"version": "1.0.0",
+	"mapUrl": "https://workadventure.github.io/wam-preset-team-building/map.tmj",
+    "metadata":{
+        "name": "Team Building",
+        "description": "Suitable for up to 50 users.\n\nA perfect map for your team buildings or creative events. 3 meeting rooms, 5 spaces with 5 different ambiences, an art area, a game zone, a music place...",
+        "copyright": "CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)",
+        "thumbnail": "https://workadventure.github.io/wam-preset-team-building/map.png"
+    },
+	"entities": {
+		"35b3e036-affa-4954-9d28-be836816eb99": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Synthetiser:#B53E40:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 224,
+			"y": 800,
+			"properties": []
+		},
+		"cf2f161a-7fda-4d7a-829b-b36239d32aaf": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Guitar:#C8B394:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 363,
+			"y": 780,
+			"properties": [],
+			"id": "cf2f161a-7fda-4d7a-829b-b36239d32aaf",
+			"modifyProperties": false
+		},
+		"d3cf5da1-791e-4a92-aeda-65030ed306b4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Guitar:#CA8854:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 318,
+			"y": 779,
+			"properties": [],
+			"id": "d3cf5da1-791e-4a92-aeda-65030ed306b4",
+			"modifyProperties": false
+		},
+		"ffe220eb-e3e2-4c77-97f9-de2233925426": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Arcade machine:#9DA3B7:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 64,
+			"y": 896,
+			"properties": []
+		},
+		"bfb4c9f2-57f1-47b0-844d-5294bf4f2143": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Arcade machine:#9DA3B7:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 64,
+			"y": 832,
+			"properties": []
+		},
+		"5ef86fda-e6a8-4655-bd40-4795ce3f8d97": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Piano bench:#93284B:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 225,
+			"y": 841,
+			"properties": []
+		},
+		"d8f6de55-4f08-44a1-bd8e-59047e36668e": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Couch:#A47A5E:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 415,
+			"y": 893,
+			"properties": []
+		},
+		"c2af33b4-ef0b-446d-8c66-209fe5d8c83a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Footstool:#BCA787:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 91,
+			"y": 819,
+			"properties": []
+		},
+		"78fdf144-d038-4252-bce7-b603c712e9af": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Lounge chair:#C46262:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 288,
+			"y": 928,
+			"properties": []
+		},
+		"0e59a8f8-166d-4bde-9c00-cf438ce5eed5": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Lounge chair:#C46262:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 288,
+			"y": 896,
+			"properties": []
+		},
+		"b29797bd-e9b1-4d8b-817a-36c51c82763b": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Wooden table (round):#B35E3F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 352,
+			"y": 928,
+			"properties": []
+		},
+		"7d2fc289-c522-4b04-9af1-42894a1456f9": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Painting:#98A7B8:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 800,
+			"y": 64,
+			"properties": [],
+			"id": "7d2fc289-c522-4b04-9af1-42894a1456f9",
+			"modifyProperties": false
+		},
+		"afa6d256-3c91-433c-a170-dc50bb22843e": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Painting:#98A7B8:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 256,
+			"y": 64,
+			"properties": []
+		},
+		"cd3d3feb-f2c8-4fb9-b599-6812c7976c8a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Painting:#92683F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 864,
+			"y": 64,
+			"properties": []
+		},
+		"a1e91a82-cbc7-4f95-8483-b7b774b3c4d2": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Painting:#4A7778:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1152,
+			"y": 64,
+			"properties": []
+		},
+		"68bfaf17-6a5b-4fdc-b221-28cccb0e4890": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Painting:#517B90:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1216,
+			"y": 64,
+			"properties": []
+		},
+		"e5acd757-2430-4e30-bc74-145616e39cf2": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Rug:#AC985F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 881,
+			"y": 445,
+			"properties": []
+		},
+		"bbd16ff6-fa8a-4cbe-9685-f723e27e55c1": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Rug:#AC985F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1101,
+			"y": 448,
+			"properties": []
+		},
+		"61155033-18fb-4504-b2f8-76f26d16f204": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Cabinet (large):#B5794F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 64,
+			"y": 640,
+			"properties": []
+		},
+		"bc727fad-626d-45d7-8a64-0a8d59c594f4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bedside table:#BAA78B:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 128,
+			"y": 640,
+			"properties": []
+		},
+		"00c0deb3-78e1-41e3-b785-7b87978ffbee": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Cabinet (large):#B5794F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 160,
+			"y": 640,
+			"properties": []
+		},
+		"b0ff732d-8650-49ce-a1a8-1d97ccccded7": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Cabinet (large):#B5794F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 320,
+			"y": 640,
+			"properties": []
+		},
+		"7d22b86f-24fe-40b5-a2f4-4f9e0d20ba2a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Cabinet:#C9985D:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 128,
+			"y": 96,
+			"properties": []
+		},
+		"97119c2d-1aca-4042-9a16-cbc891238eab": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Cabinet:#C9985D:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 352,
+			"y": 96,
+			"properties": []
+		},
+		"59716c72-ac71-4347-a143-a5ad281bb40f": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 128,
+			"y": 256,
+			"properties": []
+		},
+		"7d2c7d93-7bf6-4b50-ab21-1b3e26167ce1": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 128,
+			"y": 416,
+			"properties": []
+		},
+		"90c046c7-5130-42cb-b241-55b8eb67a428": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 352,
+			"y": 416,
+			"properties": []
+		},
+		"ad5b3556-469b-4581-ad55-190d1a301bcf": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 352,
+			"y": 256,
+			"properties": []
+		},
+		"d390af50-e902-4922-996a-abe7618d4ace": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 128,
+			"y": 192,
+			"properties": []
+		},
+		"7225b9e3-984a-4fd8-9d7f-43457f378a03": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 160,
+			"y": 192,
+			"properties": []
+		},
+		"f958b8f6-5a7d-404d-a5bc-8c9628dd97f8": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 352,
+			"y": 192,
+			"properties": []
+		},
+		"af1dc400-f905-480a-9156-c7d99d995101": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 384,
+			"y": 192,
+			"properties": []
+		},
+		"49694477-6b0d-480c-8b54-d35e0208e87a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 128,
+			"y": 352,
+			"properties": []
+		},
+		"fff2bd14-0375-4396-a1d6-7add62ee40b3": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 160,
+			"y": 352,
+			"properties": []
+		},
+		"4180096f-86fe-4fab-bc68-9b335a0b5610": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 352,
+			"y": 352,
+			"properties": []
+		},
+		"b32909c7-7557-4541-8f8c-7aad2b0157ea": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 384,
+			"y": 352,
+			"properties": []
+		},
+		"206c44d6-a80c-4534-ab5b-62ad4b184aeb": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 416,
+			"y": 224,
+			"properties": []
+		},
+		"54040420-ee6b-4d12-892e-a415b951e5b6": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 416,
+			"y": 384,
+			"properties": []
+		},
+		"95560732-bdc7-4bb0-85ca-9bec5bc5dabc": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 192,
+			"y": 384,
+			"properties": []
+		},
+		"fb1a8fb3-b57f-43fd-982a-6dc5c7346760": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 192,
+			"y": 224,
+			"properties": []
+		},
+		"a88b3f33-13d1-4c64-9dcc-87ddf5fb20e5": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 96,
+			"y": 384,
+			"properties": []
+		},
+		"f45d1f37-211b-4294-8f26-a341f690efc1": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 96,
+			"y": 224,
+			"properties": []
+		},
+		"90b220c0-df3c-4ac9-8d46-e7cb0db7add4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 320,
+			"y": 224,
+			"properties": []
+		},
+		"310a582b-9333-4ccd-b539-997e1e752a49": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Task chair:#F6BF29:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 320,
+			"y": 384,
+			"properties": []
+		},
+		"7705e573-318f-418a-b613-dc58dfe3ba92": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Armchair:#82829E:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 784,
+			"y": 446,
+			"properties": []
+		},
+		"7abdc38a-7241-4553-b3ea-769c12293957": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bookshelf:#EBE4F2:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 512,
+			"y": 64,
+			"properties": []
+		},
+		"ebb4bb4a-c498-47db-8303-96e64d62fb44": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bookshelf:#EBE4F2:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 672,
+			"y": 64,
+			"properties": []
+		},
+		"f5488c86-7590-4d1d-b80a-2bc8b244ec53": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bookshelf:#EBE4F2:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 992,
+			"y": 64,
+			"properties": []
+		},
+		"77bb8984-7a6f-4b15-aa0e-bf8c6a2519b7": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bookshelf (empty):#EBE4F2:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 64,
+			"y": 64,
+			"properties": []
+		},
+		"61e3a680-521c-4a03-8188-169972eb1543": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Wardrobe:#8B829E:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 416,
+			"y": 64,
+			"properties": []
+		},
+		"d37122d8-423d-47a8-871b-d8e7a3f4b2be": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 448,
+			"y": 672,
+			"properties": []
+		},
+		"fd007e68-b4ac-4689-af92-0740094d1f22": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 448,
+			"y": 416,
+			"properties": []
+		},
+		"8e85ec6a-384d-48e8-84e7-422f516dbd0b": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 736,
+			"y": 64,
+			"properties": []
+		},
+		"c270cc13-ddc6-4c9e-be11-1324a9650160": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia (small):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 384,
+			"y": 640,
+			"properties": []
+		},
+		"292a766d-eaac-4f44-b45b-63505f73404d": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia (small):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 288,
+			"y": 640,
+			"properties": []
+		},
+		"5326ce9f-8fdb-48c0-8947-0a86ce19b479": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Pygmy date palm:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1024,
+			"y": 448,
+			"properties": [],
+			"id": "5326ce9f-8fdb-48c0-8947-0a86ce19b479",
+			"modifyProperties": false
+		},
+		"2a16f1fc-86c7-48d3-b738-a07974bac4be": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Coffee table (round edges large):#8B829E:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 896,
+			"y": 256,
+			"properties": []
+		},
+		"92b80d4c-918b-4aea-9d69-25ab629cd0ed": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Coffee table (round edges large):#8B829E:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1216,
+			"y": 256,
+			"properties": []
+		},
+		"b3bf96c7-5134-4c05-ba07-bbc116f4bcbb": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Glass dining table:#C9A165:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 544,
+			"y": 192,
+			"properties": [],
+			"id": "b3bf96c7-5134-4c05-ba07-bbc116f4bcbb",
+			"modifyProperties": false
+		},
+		"fe97d6d8-a058-434c-a37f-200c9f02ebd7": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Glass dining table:#C9A165:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 672,
+			"y": 288,
+			"properties": []
+		},
+		"4d4fd513-0d96-4778-a346-590666bbdf29": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Coffee table (round edges):#8B829E:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1312,
+			"y": 128,
+			"properties": []
+		},
+		"2990ffab-763d-46b1-9747-314fe8f16085": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1312,
+			"y": 896,
+			"properties": []
+		},
+		"d6b7385f-ab74-4b5c-a52e-bdac65ac702a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1312,
+			"y": 768,
+			"properties": []
+		},
+		"28d6566c-c8a5-44fa-b6c4-b085069410c4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1184,
+			"y": 896,
+			"properties": []
+		},
+		"7e1e58de-aa03-456b-bb9a-185ae05e1524": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Table:#BCB986:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1184,
+			"y": 768,
+			"properties": []
+		},
+		"48a2d93c-64a8-4a4b-949f-c01ec858e9b2": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Cabinet (large):#B5794F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1248,
+			"y": 608,
+			"properties": []
+		},
+		"fc1a0435-1837-4d48-a723-ffb7134e9552": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Cabinet (large):#B5794F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 416,
+			"y": 800,
+			"properties": []
+		},
+		"5f16f418-acbd-489e-ac08-73a63f8b3695": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#4280dd:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1312,
+			"y": 911,
+			"properties": []
+		},
+		"0d3c28b7-9c48-48a8-b8c6-df4694ed4794": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#4280dd:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1342,
+			"y": 912,
+			"properties": []
+		},
+		"720f9efe-053b-4eea-b7ad-2b462fe4f36f": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#4280dd:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1309,
+			"y": 844,
+			"properties": []
+		},
+		"211479f7-c026-4c77-9bce-7a527087e3de": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#4280dd:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1343,
+			"y": 844,
+			"properties": []
+		},
+		"c6dace61-5226-42d0-ba9e-09217bd8c8a4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#BA7F50:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1183,
+			"y": 781,
+			"properties": []
+		},
+		"e189ccb6-911c-4c6b-adb0-df6b338570f2": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#BA7F50:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1214,
+			"y": 781,
+			"properties": []
+		},
+		"e6846508-48cf-4e1d-8ddb-71950afc4806": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#BA7F50:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1183,
+			"y": 713,
+			"properties": []
+		},
+		"b1050aab-8c6d-4b35-9e2f-b4ba10772ef9": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#BA7F50:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1210,
+			"y": 713,
+			"properties": []
+		},
+		"6097e03d-8619-4d5e-8e9b-4f2234a46ce4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#d93232:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1184,
+			"y": 910,
+			"properties": []
+		},
+		"fb0da17b-73db-4cc1-b29c-790a5cbdf184": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#d93232:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1218,
+			"y": 910,
+			"properties": []
+		},
+		"e6fafae6-9e91-4255-bc0d-f7c814c539ca": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#d93232:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1182,
+			"y": 843,
+			"properties": []
+		},
+		"cbf7fe80-e54d-441a-8a82-954051258d30": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#d93232:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1215,
+			"y": 845,
+			"properties": []
+		},
+		"6a18281f-d4b4-4db5-b923-d2d2640d9b6f": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#f2b22b:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1316,
+			"y": 714,
+			"properties": []
+		},
+		"fe329d83-224f-4308-9080-5a5a55f446e4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#f2b22b:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1344,
+			"y": 709,
+			"properties": []
+		},
+		"147edb0a-522d-4896-94c2-a10861be1a2b": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#f2b22b:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1317,
+			"y": 772,
+			"properties": []
+		},
+		"3acd68e4-7768-401e-9bf6-6b4b03ba0a67": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Bar stool:#f2b22b:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1344,
+			"y": 775,
+			"properties": []
+		},
+		"28b3e724-8bf5-4ef7-abc8-337cf36aae9f": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Desk (small):#BB8051:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 512,
+			"y": 416,
+			"properties": []
+		},
+		"1ae9f4b3-7c61-46f3-9bb3-17b55e3d3522": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Waiting Room chair:#BDD5DA:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 1344,
+			"y": 448,
+			"properties": []
+		},
+		"78ac36d4-2de9-4951-800e-c06d0f81112d": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Waiting Room chair:#BDD5DA:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 1312,
+			"y": 448,
+			"properties": []
+		},
+		"1dd561e5-43d1-43a0-9614-edf78faf5672": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Waiting Room chair:#BDD5DA:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 1280,
+			"y": 448,
+			"properties": []
+		},
+		"4151017d-8324-4612-b7f7-827296392714": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Waiting Room chair:#BDD5DA:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 1248,
+			"y": 448,
+			"properties": []
+		},
+		"d3127f6f-005e-43a5-804b-08fbf98b7bea": {
+			"prefabRef": {
+				"id": "LimeZu Modern Exterior:Deckchair:#DEA52B:Right",
+				"collectionName": "LimeZu Modern Exterior"
+			},
+			"x": 1230,
+			"y": 523,
+			"properties": []
+		},
+		"1f82cc20-3204-46c7-9b60-3fc2a4f6452b": {
+			"prefabRef": {
+				"id": "LimeZu Modern Exterior:Deckchair:#DEA52B:Left",
+				"collectionName": "LimeZu Modern Exterior"
+			},
+			"x": 1323,
+			"y": 523,
+			"properties": []
+		},
+		"81264137-ac67-4770-bf38-1e5de2c30db2": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Rug:#E3E3E3:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1177,
+			"y": 522,
+			"properties": [],
+			"id": "81264137-ac67-4770-bf38-1e5de2c30db2",
+			"modifyProperties": false
+		},
+		"b9c33ff4-cc84-4fe1-96a8-07dfdf777837": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 543,
+			"y": 136,
+			"properties": []
+		},
+		"c5af002a-49b7-4c69-a0ae-6a6b9700f296": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 575,
+			"y": 136,
+			"properties": []
+		},
+		"cd49fb12-e656-4c1e-8540-dc57ab1fe6b9": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 670,
+			"y": 231,
+			"properties": []
+		},
+		"f8d0066f-71d3-42cf-8593-2c1086e88480": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 700,
+			"y": 231,
+			"properties": []
+		},
+		"4a83504f-7c55-406f-98cd-649153c91c9e": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Up",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 543,
+			"y": 232,
+			"properties": []
+		},
+		"71dcbbe7-cc66-4c4f-b399-d9c030256503": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Up",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 572,
+			"y": 232,
+			"properties": []
+		},
+		"1fb0c023-b0fb-440c-ac7a-bda0913599e1": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Up",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 667,
+			"y": 329,
+			"properties": []
+		},
+		"af7c93b3-b3b4-4fa8-b221-1c919838a37b": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Office chair:#82829F:Up",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 700,
+			"y": 334,
+			"properties": []
+		},
+		"9239eaca-c2b0-41c8-9b89-a839194b8f7c": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Armchair:#82829E:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1250,
+			"y": 97,
+			"properties": []
+		},
+		"aeb770bd-9e26-4592-8812-d3e1793ef1d9": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Conference hall stage:#C49E62:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 832,
+			"y": 864,
+			"properties": [],
+			"id": "aeb770bd-9e26-4592-8812-d3e1793ef1d9",
+			"modifyProperties": false
+		},
+		"3a67dd60-161e-4410-be96-5d74b352f70e": {
+			"prefabRef": {
+				"id": "LimeZu Modern Exterior:Wooden bleacher:#B0784C:Right",
+				"collectionName": "LimeZu Modern Exterior"
+			},
+			"x": 704,
+			"y": 768,
+			"properties": [],
+			"id": "3a67dd60-161e-4410-be96-5d74b352f70e",
+			"modifyProperties": false
+		},
+		"c2553f18-54e1-449d-a919-01ec8ebc7855": {
+			"prefabRef": {
+				"id": "LimeZu Modern Exterior:Wooden bleacher:#B0784C:Down",
+				"collectionName": "LimeZu Modern Exterior"
+			},
+			"x": 768,
+			"y": 704,
+			"properties": [],
+			"id": "c2553f18-54e1-449d-a919-01ec8ebc7855",
+			"modifyProperties": false
+		},
+		"de393e71-1d8f-4186-a423-4075405db25a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Exterior:Wooden bleacher:#B0784C:Left",
+				"collectionName": "LimeZu Modern Exterior"
+			},
+			"x": 1088,
+			"y": 768,
+			"properties": [],
+			"id": "de393e71-1d8f-4186-a423-4075405db25a",
+			"modifyProperties": false
+		},
+		"ace56378-fd24-40f8-bf33-51f9227278a7": {
+			"prefabRef": {
+				"id": "LimeZu Modern Exterior:Wooden bleacher:#B0784C:Down",
+				"collectionName": "LimeZu Modern Exterior"
+			},
+			"x": 896,
+			"y": 704,
+			"properties": []
+		},
+		"5d765452-4aff-4260-b453-b368f45228e7": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Yucca palm (Big):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 704,
+			"y": 704,
+			"properties": []
+		},
+		"aaf44740-3504-4b53-99d4-2496dc35f6d4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Yucca palm (Big):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 704,
+			"y": 864,
+			"properties": []
+		},
+		"1d9af8ff-252b-4f0b-97a4-ba371a3fd006": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Yucca palm (Big):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1088,
+			"y": 864,
+			"properties": []
+		},
+		"f0739beb-9d85-4519-ab79-a9adfd538d59": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Yucca palm:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1088,
+			"y": 736,
+			"properties": []
+		},
+		"40d92d40-aabe-4685-8966-fb7056a5d913": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Yucca palm (small):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 183,
+			"y": 798,
+			"properties": []
+		},
+		"2a85a85b-25d7-4a57-a1f4-db6e81ea1c1e": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Ficus:#52855B:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 52,
+			"y": 786,
+			"properties": []
+		},
+		"940575a8-4216-44f5-8541-1cdbfbf6036b": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1285,
+			"y": 250,
+			"properties": []
+		},
+		"6ee62709-de92-45ee-9cac-675497427821": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1284,
+			"y": 277,
+			"properties": []
+		},
+		"82b25e56-f942-47c5-a2d9-e9b4856f0d27": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 964,
+			"y": 245,
+			"properties": []
+		},
+		"368d9d93-76e0-4041-b77b-d030317fd82e": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 966,
+			"y": 272,
+			"properties": []
+		},
+		"c8c95ba5-0d35-41c6-a050-fe40c8505033": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 860,
+			"y": 251,
+			"properties": []
+		},
+		"61235e0a-48a7-40de-aa1d-f434f9dc83bb": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 859,
+			"y": 280,
+			"properties": []
+		},
+		"7d0d1800-c630-46f7-87e9-216f79a6494e": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1179,
+			"y": 248,
+			"properties": []
+		},
+		"7f1c7211-9c3c-44c5-bf5f-b801767d779c": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1183,
+			"y": 279,
+			"properties": []
+		},
+		"dc7e13f6-a538-4992-b269-0ea978aaf7cd": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 910,
+			"y": 198,
+			"properties": []
+		},
+		"4899f7ee-844e-4a5f-87ce-d76eea0fb9bd": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1229,
+			"y": 200,
+			"properties": []
+		},
+		"f967ba3c-c9b3-4f7b-a1e5-ee6f4d2a0f22": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Up",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 912,
+			"y": 307,
+			"properties": []
+		},
+		"65b92700-fc44-4a3a-841e-e8666101d7df": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Canteen chair:#BCD4D9:Up",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1232,
+			"y": 303,
+			"properties": []
+		},
+		"116ecdb8-1736-4a78-8389-9c04cce530b8": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia (small):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1344,
+			"y": 608,
+			"properties": []
+		},
+		"e58894e8-fe03-4807-8d74-3ec9c71ad426": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia (small):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1184,
+			"y": 608,
+			"properties": []
+		},
+		"96ecd535-4d88-4146-b2aa-47d5ad0683e6": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Potted ficus:#568D61:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 1344,
+			"y": 320,
+			"properties": []
+		},
+		"d671ee9b-47d6-428a-bec6-22bc95a7d8a9": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Potted ficus:#568D61:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 800,
+			"y": 320,
+			"properties": []
+		},
+		"99c2370a-ec38-472b-9a5e-fd9f5e9bb9e7": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Wooden floor lamp:#468BD1:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 736,
+			"y": 128,
+			"properties": []
+		},
+		"c903fddf-4598-4515-a0eb-ec49a6be5374": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Wooden floor lamp:#468BD1:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 512,
+			"y": 288,
+			"properties": []
+		},
+		"8e7cf5e4-d2b6-4c53-bba2-9ee3c0628186": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Wooden floor lamp:#D23B36:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 192,
+			"y": 896,
+			"properties": []
+		},
+		"bfe85f5c-467c-4ffa-b94e-2b6b3049a82d": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Floor lamp:#468BD1:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 448,
+			"y": 128,
+			"properties": []
+		},
+		"cbb20221-d384-4c5d-b264-ea1452511ba5": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Floor lamp:#468BD1:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 64,
+			"y": 128,
+			"properties": []
+		},
+		"e58282c0-3b31-4d53-bd33-832351d42f29": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Coffee vending machine:#9297A9:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 960,
+			"y": 416,
+			"properties": []
+		},
+		"f2d4d989-1390-4ce0-8d20-22a8fd1e7410": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Coffee vending machine:#D8D0E0:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 192,
+			"y": 64,
+			"properties": []
+		},
+		"e3ebf959-f4bb-42fe-99fa-ef68364d664f": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Coffee vending machine:#D8D0E0:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 288,
+			"y": 64,
+			"properties": []
+		},
+		"523bbea7-6d6a-47d2-982d-b93304276adf": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Coffee machine (cups):#82829F:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 511,
+			"y": 384,
+			"properties": [],
+			"id": "523bbea7-6d6a-47d2-982d-b93304276adf",
+			"modifyProperties": false
+		},
+		"3e74f833-21ce-4428-8fc6-f75201ba6f98": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Couch:#868CA4:Right",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 672,
+			"y": 608,
+			"properties": []
+		},
+		"956bee96-6c57-4e25-afbe-8e0a1db5ed77": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Couch:#868CA4:Left",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 832,
+			"y": 608,
+			"properties": []
+		},
+		"50d8850e-a83d-4e99-aeec-0f1d0dc44760": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Strelitzia (small):#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 672,
+			"y": 576,
+			"properties": []
+		},
+		"445217cf-1bfa-415e-8255-5bb1cd04baed": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Trash can:#D684A1:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 152,
+			"y": 802,
+			"properties": []
+		},
+		"2fc4110d-84eb-497e-9edf-5df7a0fbb081": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Trash can:#ADC3CF:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 960,
+			"y": 100,
+			"properties": []
+		},
+		"7194b6e5-97a8-4be3-8c71-5480d53a32ca": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Trash can:#ADC3CF:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1056,
+			"y": 96,
+			"properties": []
+		},
+		"adf293e8-e1ad-49a4-b261-2c4d033cebc9": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Trash can:#5E9B4D:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 256,
+			"y": 96,
+			"properties": []
+		},
+		"17f054a7-e5ed-4ed0-b841-06192caf2aaa": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Coffee cup:#A0A0B5:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 671,
+			"y": 294,
+			"properties": []
+		},
+		"512cbc08-7002-429c-8a5a-f46225a41827": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Pygmy date palm:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1184,
+			"y": 480,
+			"properties": [],
+			"id": "512cbc08-7002-429c-8a5a-f46225a41827",
+			"modifyProperties": false
+		},
+		"ae027dea-2c79-4a5e-bdb9-e860df360948": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Pygmy date palm:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1184,
+			"y": 544,
+			"properties": [],
+			"id": "ae027dea-2c79-4a5e-bdb9-e860df360948",
+			"modifyProperties": false
+		},
+		"24f49398-fd3a-4a8b-9d10-03295a92a862": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Pygmy date palm:#5D994C:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1184,
+			"y": 448,
+			"properties": [],
+			"id": "24f49398-fd3a-4a8b-9d10-03295a92a862",
+			"modifyProperties": false
+		},
+		"0ac5f933-b134-4199-8869-de5074046bff": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Rug:#AC985F:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 1024,
+			"y": 736,
+			"properties": [],
+			"id": "0ac5f933-b134-4199-8869-de5074046bff",
+			"modifyProperties": false
+		},
+		"d04450f6-b631-4055-8e67-6fd080ba92e6": {
+			"prefabRef": {
+				"id": "LimeZu Modern Exterior:Wooden table:#CDA968:Down",
+				"collectionName": "LimeZu Modern Exterior"
+			},
+			"x": 736,
+			"y": 640,
+			"properties": []
+		},
+		"9cadd602-6cbe-47a6-85cd-2dab4bb1b4cb": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Rug:#D684A1:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 224,
+			"y": 640,
+			"properties": [],
+			"id": "9cadd602-6cbe-47a6-85cd-2dab4bb1b4cb",
+			"modifyProperties": false
+		},
+		"197983e8-482e-4398-a814-b7f334a3e90a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Interior:Rug:#D684A1:Down",
+				"collectionName": "LimeZu Modern Interior"
+			},
+			"x": 416,
+			"y": 640,
+			"properties": [],
+			"id": "197983e8-482e-4398-a814-b7f334a3e90a",
+			"modifyProperties": false
+		},
+		"8ba0be3a-d131-4ed2-bfd8-1419147a5e21": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Whiteboard:#4D9CD6:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 592,
+			"y": 63,
+			"properties": [],
+			"id": "8ba0be3a-d131-4ed2-bfd8-1419147a5e21",
+			"modifyProperties": false
+		},
+		"48c36c82-882e-4ed5-891a-d3c3a3893512": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Documents:#C3BBCC:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 907,
+			"y": 271,
+			"properties": []
+		},
+		"ccc80fc7-83d0-45d0-afe0-d14a3b5d0fa4": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Documents:#C3BBCC:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 157,
+			"y": 256,
+			"properties": []
+		},
+		"fda94bf1-1ae6-4918-b65a-36b8ed680d28": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Document:#C3BBCC:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 566,
+			"y": 193,
+			"properties": []
+		},
+		"cc203ebe-cabe-40e3-954a-cd7b0c6f0d9a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Document:#C3BBCC:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 1228,
+			"y": 257,
+			"properties": []
+		},
+		"732ceda8-dea1-42ae-b4fa-f78f31d5870a": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Laptop:#53556C:Down",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 1232,
+			"y": 264,
+			"properties": []
+		},
+		"980fcedb-d47e-4a51-84ac-ed725590b5b9": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Laptop:#53556C:Right",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 163,
+			"y": 393,
+			"properties": []
+		},
+		"27433a4a-9f80-4392-ae34-a558478f87b1": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Laptop:#53556C:Left",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 349,
+			"y": 235,
+			"properties": []
+		},
+		"65267818-b4e9-471f-8dcd-1244aeb732a7": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Laptop:#C4CDD5:Right",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 385,
+			"y": 394,
+			"properties": []
+		},
+		"e2b4f73b-48a8-423b-96fd-e3dbeaeca46d": {
+			"prefabRef": {
+				"id": "LimeZu Modern Office:Laptop:#C4CDD5:Left",
+				"collectionName": "LimeZu Modern Office"
+			},
+			"x": 125,
+			"y": 232,
+			"properties": []
+		}
+	},
+	"areas": [{
+		"id": "cc0ed756-46a3-421c-a0d3-b1a4d6e64eb2",
+		"x": 87,
+		"y": 359,
+		"width": 150,
+		"height": 123,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room1Table3",
+			"trigger": "onaction"
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "120c16a4-6811-40bc-a747-516dee828939",
+		"x": 1167,
+		"y": 193,
+		"width": 164,
+		"height": 181,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room3Table2",
+			"trigger": "onaction"
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "a46b1c95-c1c9-434a-be4f-3f60a58c9bdf",
+		"x": 84,
+		"y": 194,
+		"width": 150,
+		"height": 123,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room1Table3",
+			"trigger": "onaction"
+		}],
+		"visible": true
+	}, {
+		"id": "beae76ac-ff27-4d28-a59f-f7d4888ef370",
+		"x": 310,
+		"y": 192,
+		"width": 150,
+		"height": 123,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room1Table3",
+			"trigger": "onaction"
+		}],
+		"visible": true
+	}, {
+		"id": "3d63f90f-5b67-42f2-858c-e220371f6159",
+		"x": 87,
+		"y": 359,
+		"width": 150,
+		"height": 123,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room1Table3",
+			"trigger": "onaction"
+		}],
+		"visible": true
+	}, {
+		"id": "9829b12b-3f92-428b-8384-07e83e444d66",
+		"x": 651,
+		"y": 232,
+		"width": 108,
+		"height": 168,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room1Table3",
+			"trigger": "onaction"
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "9416afd0-1ef6-418b-a0cb-35021895eeb1",
+		"x": 840,
+		"y": 192,
+		"width": 178,
+		"height": 180,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room1Table3",
+			"trigger": "onaction"
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "9beab135-f459-4560-9459-9fc9293deb81",
+		"x": 523,
+		"y": 140,
+		"width": 106,
+		"height": 158,
+		"name": "",
+		"properties": [{
+			"id": "4c2e3af6-dc58-4cdf-b4eb-040da4dcb386",
+			"type": "jitsiRoomProperty",
+			"closable": true,
+			"jitsiRoomConfig": {},
+			"hideButtonLabel": true,
+			"roomName": "Room1Table3",
+			"trigger": "onaction"
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "f886b940-8288-4812-b62c-e1b8e076c47c",
+		"x": 705,
+		"y": 746,
+		"width": 415,
+		"height": 146,
+		"name": "",
+		"properties": [{
+			"id": "800bef30-520b-4cfe-bb64-eeb5b5bc5fec",
+			"type": "listenerMegaphone",
+			"speakerZoneName": "ec7e1cc1-0443-4db3-960e-77522a1d2852",
+			"chatEnabled": false
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "ec7e1cc1-0443-4db3-960e-77522a1d2852",
+		"x": 837,
+		"y": 897,
+		"width": 198,
+		"height": 91,
+		"name": "",
+		"properties": [{
+			"id": "8e434b4c-8bb8-4f4a-b5d9-4fc6785967cb",
+			"type": "speakerMegaphone",
+			"name": "Auditorium",
+			"chatEnabled": false
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "aaf9240c-1263-4fa9-9253-2170acd903f8",
+		"x": 64,
+		"y": 881,
+		"width": 57,
+		"height": 110,
+		"name": "",
+		"properties": [{
+			"id": "cfd850b6-b408-4313-bd38-3197e55149c8",
+			"type": "openWebsite",
+			"closable": true,
+			"link": "https://duckhuntjs.com/",
+			"newTab": false,
+			"hideButtonLabel": true
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}, {
+		"id": "12005091-4490-4d19-9c82-54cdda9e82b7",
+		"x": 1211,
+		"y": 476,
+		"width": 166,
+		"height": 131,
+		"name": "",
+		"properties": [{
+			"id": "d47d467f-2b54-49c3-b4ee-6bfc2d02bb13",
+			"type": "silent",
+			"hideButtonLabel": true
+		}],
+		"visible": true,
+		"modifyProperties": false
+	}],
+	"entityCollections": [{
+		"url": "https://limezu.workadventu.re/LimeZu_Modern_Exterior.json",
+		"type": "file"
+	}, {
+		"url": "https://limezu.workadventu.re/LimeZu_Modern_Interior.json",
+		"type": "file"
+	}, {
+		"url": "https://limezu.workadventu.re/LimeZu_Modern_Office.json",
+		"type": "file"
+	}],
+	"lastCommandId": "dbc791a8-0633-4b1d-8330-d2c16f68f957"
+}
